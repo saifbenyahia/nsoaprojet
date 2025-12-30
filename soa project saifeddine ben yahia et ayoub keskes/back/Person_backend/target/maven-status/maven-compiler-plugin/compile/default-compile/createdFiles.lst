@@ -1,0 +1,4 @@
+com\person_back\config\SimpleCORSFilter.class
+com\person_back\dao\PersonDAO.class
+com\person_back\model\Person.class
+com\person_back\rest\PersonResource.class
